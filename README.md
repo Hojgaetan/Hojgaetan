@@ -24,7 +24,7 @@
 
 
 <h1 align="center">Salut 👋, Moi c'est Joel Gaetan HASSAM OBAH</h1>
-<h3 align="center">Passionné par le web, l'I.A, la Data Science et le Macine Learning</h3>
+<h3 align="center">Passionné par le web, l'I.A, la Data Science et le Machine Learning</h3>
 
 <p align="left">  </p>
 
