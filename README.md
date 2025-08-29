@@ -24,7 +24,7 @@
 
 
 <h1 align="center">Salut 👋, Moi c'est Joel Gaetan HASSAM OBAH</h1>
-<h3 align="center">Passionné par le développement web et l'expérience utilisateur, je suis Développeur web dans la création de sites internet et d'applications web responsives. Ma maîtrise des technologies HTML, CSS et JavaScript, combinée à une connaissance approfondie des frameworks modernes, me permet de transformer des maquettes graphiques en interfaces web performantes et esthétiques. Toujours à l'affût des dernières tendances et des meilleures pratiques en matière de développement web.</h3>
+<h3 align="center">Passionné par le web, l'I.A, la Data Science et le Macine Learning</h3>
 
 <p align="left">  </p>
 
